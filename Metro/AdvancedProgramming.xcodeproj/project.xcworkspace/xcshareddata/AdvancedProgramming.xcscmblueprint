@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BACD406B493B8B7A77CD91D1B148B2FE3FE0F842",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AAFFCE423A6A963240694F6C75C299FF4C2088C4" : 0,
+    "BACD406B493B8B7A77CD91D1B148B2FE3FE0F842" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "645AF62D-6229-4E31-8204-1EFFEEB6EEF3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AAFFCE423A6A963240694F6C75C299FF4C2088C4" : "",
+    "BACD406B493B8B7A77CD91D1B148B2FE3FE0F842" : "AdvancedProgramming\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AdvancedProgramming",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AdvancedProgramming.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/massimoPerini\/CUtils-AdvancedProgrammingChina.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AAFFCE423A6A963240694F6C75C299FF4C2088C4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:massimoPerini\/CUtils-AdvancedProgrammingChina.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BACD406B493B8B7A77CD91D1B148B2FE3FE0F842"
+    }
+  ]
+}
